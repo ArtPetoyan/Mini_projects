@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Articles</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+	<div id="menuBar">
+		<div class="menuItem" id="home">Գլխավոր</div>
+		<div class="menuItem" id="about"> Մեր մասին
+			<div id = "aboutDropDown">
+				<div class="dropDown" id="about1">մեր մասին</div>
+				<div class="dropDown" id="about2">պատմություն</div>
+				<div class="dropDown" id="about3">ապագա</div>
+			</div>
+		</div>
+		<div class="menuItem" id="staff"> աշխատակազմ
+			<div id="staffDropDown">
+				<div class="dropDown" id="staff1">հիմնական</div>
+				<div class="dropDown" id="staff2">PM</div>
+				<div class="dropDown" id="staff3">SMM</div>
+				<div class="dropDown" id="staff4">ծրագրավորողներ</div>
+				<div class="dropDown" id="staff5">Այլ</div>
+			</div>
+		</div>
+		<div class="menuItem" id="location">Հասցե</div>
+		<div class="menuItem" id="massage">նամակ</div>
+	</div>
+</header>
+<main>
+<form action="" id="form">
+	<div id="inputDiv">
+		<div><input type="text" id="file" placeholder="https://source.unsplash.com/random/800x600"></div>
+		<div><input type="text" id="title" placeholder="Վերնագիր (կարճ)*"></div>
+		<div><input type="text" id = "mainText"placeholder="Նկարագրություն"></div>
+		<div><input type="button" id="createButton" value="Ավելացնել հոդված"></div>
+	</div>
+</form>
+	<article id = 'article'></article>
+</main>
+
+<script src="javaScript.js"></script>
+</body>
+</html>
+
