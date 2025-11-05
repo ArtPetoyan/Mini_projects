@@ -10,6 +10,22 @@ Each project is organized into its own directory and typically contains all the 
 
 ## Projects
 
+- `.github` – GitHub configuration and workflows
+- `Articles` – Includes article resources or documentation
+- `Drag_and_Drop` – Drag and drop feature demonstration
+- `Js_apranq` – JavaScript practice codes
+- `Login_page` – Simple login page implementation
+- `Menu_Icon` – Menu icon mini project
+- `Tic_Tac_Toe` – Tic Tac Toe game
+- `parallax` – Parallax scrolling demo
+- `slideShow2` – Second slideshow implementation
+- `slide_filmshow` – Film-style slide project
+- `slide_lvl1` – Level 1 slide example
+- `slide_phone` – Slide for phone display
+- `smile` – Smile animation or demo
+- `solar_eclipse` – Solar Eclipse visualization/demo
+- `timer` – Countdown/clock timer ([README](timer/README.md))
+
 ## Getting Started
 
 To run any of the projects:
