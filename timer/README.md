@@ -7,7 +7,6 @@ It provides basic timer functionality which can be used as a countdown or regula
 
 - Start/stop/reset timer controls
 - Countdown from a specified time
-- Notification or alert when timer completes (implementation dependent)
 - Simple and clean UI
 
 ## Folder Structure
