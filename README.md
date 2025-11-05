@@ -25,6 +25,7 @@ Each project is organized into its own directory and typically contains all the 
 - `smile` – Smile animation or demo
 - `solar_eclipse` – Solar Eclipse visualization/demo
 - `timer` – Countdown/clock timer ([README](timer/README.md))
+- More coming soon!
 
 ## Getting Started
 
